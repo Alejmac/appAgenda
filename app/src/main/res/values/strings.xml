@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica 2.7</string>
+    <string name="hint_nombre">usuario:</string>
+    <string name="hint_telefono">Numero:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btn_guarda">Save</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+</resources>
